@@ -1,0 +1,10 @@
+doctype html
+html(lang='en')
+ head
+   title Chris Coyier Pixel Avatar
+   style
+    include css/main.css
+ body
+   .avatar
+    - for (i=1; i <= 3969 ; i++)
+        div(class=`pixel pixel-${i}`)
