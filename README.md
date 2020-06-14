@@ -1,6 +1,6 @@
-# PureCSS - Responsive Chris Coyier Pixel Avata
+# PureCSS - Responsive Chris Coyier Pixel Avatar
 
-Responsive Responsive Chris Coyier Pixel Avatar using HTML and CSS
+Responsive Chris Coyier Pixel Avatar using HTML and CSS
 
 <div align="center">
    <img src="screenshot.png" width="800" />
